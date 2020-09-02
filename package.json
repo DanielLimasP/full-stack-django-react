@@ -1,0 +1,23 @@
+{
+  "name": "full-stack-django-react",
+  "version": "1.0.0",
+  "description": "Full-stack app with Django and React",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DanielLimasP/full-stack-django-react.git"
+  },
+  "author": "Daniel Limas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DanielLimasP/full-stack-django-react/issues"
+  },
+  "homepage": "https://github.com/DanielLimasP/full-stack-django-react#readme",
+  "devDependencies": {
+    "webpack": "^4.44.1",
+    "webpack-cli": "^3.3.12"
+  }
+}
