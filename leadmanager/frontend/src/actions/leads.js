@@ -43,6 +43,6 @@ export const addLead = (lead) => (dispatch) => {
       });
     })
     .catch((err) => {
-      console.log(err);
+      console.log(err.response.data);
     });
 };
